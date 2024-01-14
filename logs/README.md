@@ -1,0 +1,1 @@
+This folder contains the median for each image.

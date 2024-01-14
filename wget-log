@@ -1,0 +1,6 @@
+--2023-11-21 14:29:55--  https://yelp-dataset.s3.amazonaws.com/YDC22/yelp_dataset.tgz?AWSAccessKeyId=ASIAQ2DWR7AOVLYLYLQS
+Resolving yelp-dataset.s3.amazonaws.com (yelp-dataset.s3.amazonaws.com)... 52.219.120.18, 52.219.112.170, 52.219.194.17, ...
+Connecting to yelp-dataset.s3.amazonaws.com (yelp-dataset.s3.amazonaws.com)|52.219.120.18|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2023-11-21 14:29:57 ERROR 403: Forbidden.
+

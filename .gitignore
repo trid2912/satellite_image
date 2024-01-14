@@ -1,0 +1,12 @@
+__pycache__
+.idea
+
+utils/__pycache__
+utils/settings/__pycache__
+models/__pycache__
+
+.ipynb_checkpoints
+
+/venv/
+
+*.pkl
